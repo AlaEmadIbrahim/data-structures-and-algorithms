@@ -19,10 +19,10 @@ Because size n
 
 ## Solution
 
-<!-- function reverseArray (array) {
+function reverseArray (array) {
 let reverseArray[array[array.length-1]]
 for( let i = array.length-2 ; i>=0 ; i-- ) {
 reverseArray[reverseArray.length] = array[i]
 }
 return reverseArray
-} -->
+}
