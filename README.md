@@ -3,6 +3,7 @@
 | Documentation  | Code Link     |
 |:--------------:|:--------------:|
 | [Challenge01]  | [Array Reverse](./codechallenge/reverse.md)|
+| [Challenge02]  | [insertShiftArray ](./codechallenge/reverse.md)|
 
 ## Data Structures and Algorithms
 
