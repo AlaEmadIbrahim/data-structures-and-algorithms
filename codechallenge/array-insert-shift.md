@@ -1,3 +1,3 @@
 # Whiteboard Process
 
-![InserShiftArray](./images/InserShiftArray.PNG
+![InserShiftArray](./images/InserShiftArray.PNG)
