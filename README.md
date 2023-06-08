@@ -4,6 +4,7 @@
 |:--------------:|:--------------:|
 | [Challenge01]  | [Array Reverse](./codechallenge/reverse.md)|
 | [Challenge02]  | [insertShiftArray ](./codechallenge/array-insert-shift.md)|
+| [Challenge03]  | [LinkedList](./codechallenge/Class05LinkedList)|
 
 ## Data Structures and Algorithms
 
