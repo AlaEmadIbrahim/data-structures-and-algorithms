@@ -49,6 +49,6 @@ describe("Linked List Tests", () => {
     ll.insert(1);
     ll.insert(2);
     ll.insert(3);
-    expect(ll.tostring()).toEqual("{1} -> {2} -> {3} -> ");
+    expect(ll.tostring()).toEqual("{ a } -> { b } -> { c } -> NULL");
   });
 })
