@@ -1,0 +1,15 @@
+{
+  "name": "data-structures-and-algorithms",
+  "version": "1.0.0",
+  "description": "| Documentation  | Code Link     | |:--------------:|:--------------:| | [Challenge01]  | [Array Reverse](./codechallenge/reverse.md)| | [Challenge02]  | [insertShiftArray ](./codechallenge/array-insert-shift.md)| | [Challenge03]  | [LinkedList](./codechallenge/Class05LinkedList)|",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}

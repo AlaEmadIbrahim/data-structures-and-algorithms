@@ -2,9 +2,9 @@
 
 | Documentation  | Code Link     |
 |:--------------:|:--------------:|
-| [Challenge01]  | [Array Reverse](./codechallenge/reverse.md)|
-| [Challenge02]  | [insertShiftArray ](./codechallenge/array-insert-shift.md)|
-| [Challenge03]  | [LinkedList](./codechallenge/Class05LinkedList)|
+| [Challenge01]  | [Array Reverse](./codechallenge/codeChall1/reverse.md)|
+| [Challenge02]  | [insertShiftArray ](./codechallenge/codeChall2/array-insert-shift.md)|
+| [Challenge03]  | [LinkedList](./codechallenge/codeChall5/)|
 
 ## Data Structures and Algorithms
 
