@@ -4,8 +4,8 @@ Uses singly linked nodes to implement a Linked List.
 
 ## Approach & Efficiency
 
-Time >>> Big O(n)
-space >>> Big O(1)
+- Time >>> Big O(n)
+- space >>> Big O(1)
 
 ## Solution
 
