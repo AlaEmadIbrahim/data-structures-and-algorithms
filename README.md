@@ -3,8 +3,8 @@
 | Documentation  | Code Link     |
 |:--------------:|:--------------:|
 | [Challenge01]  | [Array Reverse](./codechallenge/reverse.md)|
-| [Challenge02]  | [insertShiftArray ](./codechallenge/array-insert-shift.md)|
-| [Challenge03]  | [BinarySearch  ](./codechallenge/BinarySearch.md)|
+| [Challenge02]  | [insertShiftArray](./codechallenge/array-insert-shift.md)|
+| [Challenge03]  | [BinarySearch](./codechallenge/BinarySearch.md)|
 
 ## Data Structures and Algorithms
 
