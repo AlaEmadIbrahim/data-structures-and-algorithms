@@ -5,6 +5,7 @@
 | [Challenge01]  | [Array Reverse](./codechallenge/reverse.md)|
 | [Challenge02]  | [insertShiftArray](./codechallenge/array-insert-shift.md)|
 | [Challenge03]  | [BinarySearch](./codechallenge/BinarySearch.md)|
+| [Challenge06]  | [linked-list-insertions](./codechallenge/codeChall6/linkedList.md)|
 
 ## Data Structures and Algorithms
 
