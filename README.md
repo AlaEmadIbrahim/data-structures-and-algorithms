@@ -7,6 +7,7 @@
 | [Challenge03]  | [BinarySearch](./codechallenge/BinarySearch.md)|
 | [Challenge06]  | [linked-list-insertions](./codechallenge/codeChall6/linkedList.md)|
 | [Challenge07]  | [linked-list-kth](./codechallenge/codeChall7/linked-list-kth.md)|
+| [Challenge08]  | [linked-list-zip](./codechallenge/codeChall8/linked-list-zip.md)|
 
 ## Data Structures and Algorithms
 
