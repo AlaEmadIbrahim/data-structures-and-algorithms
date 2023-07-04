@@ -9,6 +9,7 @@
 | [Challenge07]  | [linked-list-kth](./codechallenge/codeChall7/linked-list-kth.md)|
 | [Challenge08]  | [linked-list-zip](./codechallenge/codeChall8/linked-list-zip.md)|
 | [Challenge10]  | [Stacks and Queues](./codechallenge/codeChall10/StacksQueues.md)|
+| [Challenge11]  | [stack-queue-pseudo](./codechallenge/codeChall11/StacksQueues11.md)|
 
 ## Data Structures and Algorithms
 
