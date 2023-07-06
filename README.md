@@ -10,6 +10,7 @@
 | [Challenge08]  | [linked-list-zip](./codechallenge/codeChall8/linked-list-zip.md)|
 | [Challenge10]  | [Stacks and Queues](./codechallenge/codeChall10/StacksQueues.md)|
 | [Challenge11]  | [stack-queue-pseudo](./codechallenge/codeChall11/StacksQueues11.md)|
+| [Challenge12]  | [stack-queue-animal-shelter](./codechallenge/codeChall12/FIFO.md)|
 
 ## Data Structures and Algorithms
 
