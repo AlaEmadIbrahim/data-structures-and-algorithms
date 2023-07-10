@@ -11,6 +11,7 @@
 | [Challenge10]  | [Stacks and Queues](./codechallenge/codeChall10/StacksQueues.md)|
 | [Challenge11]  | [stack-queue-pseudo](./codechallenge/codeChall11/StacksQueues11.md)|
 | [Challenge12]  | [stack-queue-animal-shelter](./codechallenge/codeChall12/FIFO.md)|
+| [Challenge13]  | [stack-queue-brackets](./codechallenge/codeChall13/brackets.md)|
 
 ## Data Structures and Algorithms
 
