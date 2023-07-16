@@ -14,6 +14,7 @@
 | [Challenge13]  | [stack-queue-brackets](./codechallenge/codeChall13/brackets.md)|
 | [Challenge14]  | [Mock Interviews](./codechallenge/codeChall14/DuckDuckGoose.md)|
 | [Challenge15]  | [trees](./codechallenge/codeChall15/trees.md)|
+| [Challenge16]  | [tree-max](./codechallenge/codeChall16/tree-max.md)|
 
 ## Data Structures and Algorithms
 
