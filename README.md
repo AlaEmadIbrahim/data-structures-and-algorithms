@@ -15,6 +15,7 @@
 | [Challenge14]  | [Mock Interviews](./codechallenge/codeChall14/DuckDuckGoose.md)|
 | [Challenge15]  | [trees](./codechallenge/codeChall15/trees.md)|
 | [Challenge16]  | [tree-max](./codechallenge/codeChall16/tree-max.md)|
+| [Challenge17]  | [tree-breadth-first](./codechallenge/codeChall17/tree-breadth-first.md)|
 
 ## Data Structures and Algorithms
 
