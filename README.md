@@ -16,6 +16,7 @@
 | [Challenge15]  | [trees](./codechallenge/codeChall15/trees.md)|
 | [Challenge16]  | [tree-max](./codechallenge/codeChall16/tree-max.md)|
 | [Challenge17]  | [tree-breadth-first](./codechallenge/codeChall17/tree-breadth-first.md)|
+| [Challenge18]  | [tree-fizz-buzz](./codechallenge/codeChall18/tree-fizz-buzz.md)|
 
 ## Data Structures and Algorithms
 
