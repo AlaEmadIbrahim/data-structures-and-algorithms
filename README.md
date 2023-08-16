@@ -18,6 +18,7 @@
 | [Challenge17]  | [tree-breadth-first](./codechallenge/codeChall17/tree-breadth-first.md)|
 | [Challenge18]  | [tree-fizz-buzz](./codechallenge/codeChall18/tree-fizz-buzz.md)|
 | [Challenge26]  | [Insertion](./codechallenge/codeChall26/Insertion.md)|
+| [Challenge27]  | [Merge](./codechallenge/codeChall27/Merge.md)|
 
 ## Data Structures and Algorithms
 
