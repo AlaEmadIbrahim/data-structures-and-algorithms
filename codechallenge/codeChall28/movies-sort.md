@@ -1,5 +1,5 @@
-# merge
+# sorting
 
-![insertion](../images/merge.jpg)
+![insertion](../images/movie-sort.PNG)
 
 | Home Page               | [Home Page](../../README.md)                                |
