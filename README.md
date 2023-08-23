@@ -20,6 +20,7 @@
 | [Challenge26]  | [Insertion](./codechallenge/codeChall26/Insertion.md)|
 | [Challenge27]  | [Merge](./codechallenge/codeChall27/Merge.md)|
 | [Challenge28]  | [movies-sort](./codechallenge/codeChall28/movies-sort.md)|
+| [Challenge30]  | [Hash Table](./codechallenge/codeChall30/Hash-Table.md)|
 
 ## Data Structures and Algorithms
 
