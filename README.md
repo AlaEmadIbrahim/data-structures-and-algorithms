@@ -21,7 +21,8 @@
 | [Challenge27]  | [Merge](./codechallenge/codeChall27/Merge.md)|
 | [Challenge28]  | [movies-sort](./codechallenge/codeChall28/movies-sort.md)|
 | [Challenge30]  | [Hash Table](./codechallenge/codeChall30/Hash-Table.md)|
-| [Challenge31]  | [hashmap-repeated-word](./codechallenge/codeChall31/hashmap-repeated-word.js)|
+| [Challenge31]  | [hashmap-repeated-word](./codechallenge/codeChall31/hashmap-repeated-word.md)|
+| [Challenge32]  | [tree-intersection](./codechallenge/codeChall32/tree-intersection.md)|
 
 ## Data Structures and Algorithms
 
