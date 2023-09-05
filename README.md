@@ -23,7 +23,7 @@
 | [Challenge30]  | [Hash Table](./codechallenge/codeChall30/Hash-Table.md)|
 | [Challenge31]  | [hashmap-repeated-word](./codechallenge/codeChall31/hashmap-repeated-word.md)|
 | [Challenge32]  | [tree-intersection](./codechallenge/codeChall32/tree-intersection.md)|
-| [Challenge33]  | [joinLeft](./codechallenge/codeChall33/joinLeft.js)|
+| [Challenge33]  | [joinLeft](./codechallenge/codeChall33/joinLeft.md)|
 
 ## Data Structures and Algorithms
 
