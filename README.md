@@ -25,6 +25,7 @@
 | [Challenge32]  | [tree-intersection](./codechallenge/codeChall32/tree-intersection.md)|
 | [Challenge33]  | [joinLeft](./codechallenge/codeChall33/joinLeft.md)|
 | [Challenge35]  | [graph](./codechallenge/codeChall35/graph.md)|
+| [Challenge36]  | [graph-breadth-first](./codechallenge/codeChall36/graph-breadth-first.md)|
 
 ## Data Structures and Algorithms
 
